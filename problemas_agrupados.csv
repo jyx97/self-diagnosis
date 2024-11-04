@@ -1,0 +1,781 @@
+cluster,problema,sintoma,solucao
+0,alinhamento da direção,carro puxando para um lado,realizar alinhamento da direção
+0,alinhamento da direção,carro puxando para um lado com barulho,realizar alinhamento da direção
+0,alinhamento da direção,carro puxando para um lado e vibração,realizar alinhamento da direção
+0,alinhamento de rodas,carro puxa para um lado,realizar alinhamento de rodas
+0,alinhamento de rodas,carro puxa para um lado com barulho,realizar alinhamento de rodas
+0,alinhamento de rodas,carro puxa para um lado e vibração,realizar alinhamento de rodas
+0,alternador defeituoso,luzes fracas,substituir ou reparar o alternador
+0,alternador defeituoso,luzes fracas,trocar ou reparar o alternador
+0,alternador defeituoso,luzes fracas,realizar a troca ou reparar o alternador
+0,alternador defeituoso,luzes fracas com barulho,substituir ou reparar o alternador
+0,alternador defeituoso,luzes fracas com barulho,trocar ou reparar o alternador
+0,alternador defeituoso,luzes fracas com barulho,realizar a troca ou reparar o alternador
+0,alternador defeituoso,luzes fracas e vibração,substituir ou reparar o alternador
+0,alternador defeituoso,luzes fracas e vibração,trocar ou reparar o alternador
+0,alternador defeituoso,luzes fracas e vibração,realizar a troca ou reparar o alternador
+0,alternador defeituoso,luz de bateria acesa,substituir o alternador
+0,alternador defeituoso,luz de bateria acesa,trocar o alternador
+0,alternador defeituoso,luz de bateria acesa,realizar a troca o alternador
+0,alternador defeituoso,luz de bateria acesa com barulho,substituir o alternador
+0,alternador defeituoso,luz de bateria acesa com barulho,trocar o alternador
+0,alternador defeituoso,luz de bateria acesa com barulho,realizar a troca o alternador
+0,alternador defeituoso,luz de bateria acesa e vibração,substituir o alternador
+0,alternador defeituoso,luz de bateria acesa e vibração,trocar o alternador
+0,alternador defeituoso,luz de bateria acesa e vibração,realizar a troca o alternador
+0,amortecedores danificados,barulho na suspensao,substituir os amortecedores
+0,amortecedores danificados,barulho na suspensao,trocar os amortecedores
+0,amortecedores danificados,barulho na suspensao,realizar a troca os amortecedores
+0,amortecedores danificados,barulho na suspensao com barulho,substituir os amortecedores
+0,amortecedores danificados,barulho na suspensao com barulho,trocar os amortecedores
+0,amortecedores danificados,barulho na suspensao com barulho,realizar a troca os amortecedores
+0,amortecedores danificados,barulho na suspensao e vibração,substituir os amortecedores
+0,amortecedores danificados,barulho na suspensao e vibração,trocar os amortecedores
+0,amortecedores danificados,barulho na suspensao e vibração,realizar a troca os amortecedores
+0,balanceamento de rodas,vibraçao no volante,balancear as rodas
+0,balanceamento de rodas,vibraçao no volante com barulho,balancear as rodas
+0,balanceamento de rodas,vibraçao no volante e vibração,balancear as rodas
+0,bateria descarregada,ruido ao ligar,recarregar ou substituir a bateria
+0,bateria descarregada,ruido ao ligar,recarregar ou trocar a bateria
+0,bateria descarregada,ruido ao ligar,recarregar ou realizar a troca a bateria
+0,bateria descarregada,ruido ao ligar com barulho,recarregar ou substituir a bateria
+0,bateria descarregada,ruido ao ligar com barulho,recarregar ou trocar a bateria
+0,bateria descarregada,ruido ao ligar com barulho,recarregar ou realizar a troca a bateria
+0,bateria descarregada,ruido ao ligar e vibração,recarregar ou substituir a bateria
+0,bateria descarregada,ruido ao ligar e vibração,recarregar ou trocar a bateria
+0,bateria descarregada,ruido ao ligar e vibração,recarregar ou realizar a troca a bateria
+0,bateria descarregada,o carro nao liga,trocar ou recarregar a bateria
+0,bateria descarregada,o carro nao liga com barulho,trocar ou recarregar a bateria
+0,bateria descarregada,o carro nao liga e vibração,trocar ou recarregar a bateria
+0,bico injetor sujo ou danificado,luz de injeção acesa,limpar ou substituir bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa,limpar ou trocar bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa,limpar ou realizar a troca bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa com barulho,limpar ou substituir bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa com barulho,limpar ou trocar bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa com barulho,limpar ou realizar a troca bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa e vibração,limpar ou substituir bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa e vibração,limpar ou trocar bico injetor
+0,bico injetor sujo ou danificado,luz de injeção acesa e vibração,limpar ou realizar a troca bico injetor
+0,bomba de combustivel com problema,marcha lenta irregular,verificar e substituir a bomba
+0,bomba de combustivel com problema,marcha lenta irregular,verificar e trocar a bomba
+0,bomba de combustivel com problema,marcha lenta irregular,verificar e realizar a troca a bomba
+0,bomba de combustivel com problema,marcha lenta irregular com barulho,verificar e substituir a bomba
+0,bomba de combustivel com problema,marcha lenta irregular com barulho,verificar e trocar a bomba
+0,bomba de combustivel com problema,marcha lenta irregular com barulho,verificar e realizar a troca a bomba
+0,bomba de combustivel com problema,marcha lenta irregular e vibração,verificar e substituir a bomba
+0,bomba de combustivel com problema,marcha lenta irregular e vibração,verificar e trocar a bomba
+0,bomba de combustivel com problema,marcha lenta irregular e vibração,verificar e realizar a troca a bomba
+0,bomba de combustível com problema,luz de pressão de combustível acesa,substituir bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa,trocar bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa,realizar a troca bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa com barulho,substituir bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa com barulho,trocar bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa com barulho,realizar a troca bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa e vibração,substituir bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa e vibração,trocar bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível acesa e vibração,realizar a troca bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando,substituir bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando,trocar bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando,realizar a troca bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando com barulho,substituir bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando com barulho,trocar bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando com barulho,realizar a troca bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando e vibração,substituir bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando e vibração,trocar bomba de combustível
+0,bomba de combustível com problema,luz de pressão de combustível piscando e vibração,realizar a troca bomba de combustível
+0,bomba de óleo com defeito,luz de pressão de óleo acesa,substituir a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa,trocar a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa,realizar a troca a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa com barulho,substituir a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa com barulho,trocar a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa com barulho,realizar a troca a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa e vibração,substituir a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa e vibração,trocar a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo acesa e vibração,realizar a troca a bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando,substituir bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando,trocar bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando,realizar a troca bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando com barulho,substituir bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando com barulho,trocar bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando com barulho,realizar a troca bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando e vibração,substituir bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando e vibração,trocar bomba de óleo
+0,bomba de óleo com defeito,luz de pressão de óleo piscando e vibração,realizar a troca bomba de óleo
+0,caixa de direção com problema,direcao com folga,substituir a caixa de direção
+0,caixa de direção com problema,direcao com folga,trocar a caixa de direção
+0,caixa de direção com problema,direcao com folga,realizar a troca a caixa de direção
+0,caixa de direção com problema,direcao com folga com barulho,substituir a caixa de direção
+0,caixa de direção com problema,direcao com folga com barulho,trocar a caixa de direção
+0,caixa de direção com problema,direcao com folga com barulho,realizar a troca a caixa de direção
+0,caixa de direção com problema,direcao com folga e vibração,substituir a caixa de direção
+0,caixa de direção com problema,direcao com folga e vibração,trocar a caixa de direção
+0,caixa de direção com problema,direcao com folga e vibração,realizar a troca a caixa de direção
+0,catalisador com defeito,luz de sistema de escape acesa,substituir catalisador
+0,catalisador com defeito,luz de sistema de escape acesa,trocar catalisador
+0,catalisador com defeito,luz de sistema de escape acesa,realizar a troca catalisador
+0,catalisador com defeito,luz de sistema de escape acesa com barulho,substituir catalisador
+0,catalisador com defeito,luz de sistema de escape acesa com barulho,trocar catalisador
+0,catalisador com defeito,luz de sistema de escape acesa com barulho,realizar a troca catalisador
+0,catalisador com defeito,luz de sistema de escape acesa e vibração,substituir catalisador
+0,catalisador com defeito,luz de sistema de escape acesa e vibração,trocar catalisador
+0,catalisador com defeito,luz de sistema de escape acesa e vibração,realizar a troca catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa,substituir o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa,trocar o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa,realizar a troca o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa com barulho,substituir o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa com barulho,trocar o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa com barulho,realizar a troca o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa e vibração,substituir o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa e vibração,trocar o catalisador
+0,catalisador danificado,luz de sistema de exaustão acesa e vibração,realizar a troca o catalisador
+0,chave de ignicao com problema,falha ao ligar,substituir a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar,trocar a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar,realizar a troca a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar com barulho,substituir a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar com barulho,trocar a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar com barulho,realizar a troca a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar e vibração,substituir a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar e vibração,trocar a chave de ignicao
+0,chave de ignicao com problema,falha ao ligar e vibração,realizar a troca a chave de ignicao
+0,correia de transmisao desgastada,cheiro de borracha queimada,substituir a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada,trocar a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada,realizar a troca a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada com barulho,substituir a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada com barulho,trocar a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada com barulho,realizar a troca a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada e vibração,substituir a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada e vibração,trocar a correia de transmisao
+0,correia de transmisao desgastada,cheiro de borracha queimada e vibração,realizar a troca a correia de transmisao
+0,correia dentada desgastada,ruído no motor,substituir a correia dentada
+0,correia dentada desgastada,ruído no motor,trocar a correia dentada
+0,correia dentada desgastada,ruído no motor,realizar a troca a correia dentada
+0,correia dentada desgastada,ruído no motor com barulho,substituir a correia dentada
+0,correia dentada desgastada,ruído no motor com barulho,trocar a correia dentada
+0,correia dentada desgastada,ruído no motor com barulho,realizar a troca a correia dentada
+0,correia dentada desgastada,ruído no motor e vibração,substituir a correia dentada
+0,correia dentada desgastada,ruído no motor e vibração,trocar a correia dentada
+0,correia dentada desgastada,ruído no motor e vibração,realizar a troca a correia dentada
+0,disco de freio danificado,cheiro de queimado ao frear,substituir discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear,trocar discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear,realizar a troca discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear com barulho,substituir discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear com barulho,trocar discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear com barulho,realizar a troca discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear e vibração,substituir discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear e vibração,trocar discos de freio
+0,disco de freio danificado,cheiro de queimado ao frear e vibração,realizar a troca discos de freio
+0,disco de freio empenado,desgaste irregular,substituir ou retificar os discos
+0,disco de freio empenado,desgaste irregular,trocar ou retificar os discos
+0,disco de freio empenado,desgaste irregular,realizar a troca ou retificar os discos
+0,disco de freio empenado,desgaste irregular com barulho,substituir ou retificar os discos
+0,disco de freio empenado,desgaste irregular com barulho,trocar ou retificar os discos
+0,disco de freio empenado,desgaste irregular com barulho,realizar a troca ou retificar os discos
+0,disco de freio empenado,desgaste irregular e vibração,substituir ou retificar os discos
+0,disco de freio empenado,desgaste irregular e vibração,trocar ou retificar os discos
+0,disco de freio empenado,desgaste irregular e vibração,realizar a troca ou retificar os discos
+0,discos de freio desgastados,vibração ao frear,substituir discos de freio
+0,discos de freio desgastados,vibração ao frear,trocar discos de freio
+0,discos de freio desgastados,vibração ao frear,realizar a troca discos de freio
+0,discos de freio desgastados,vibração ao frear com barulho,substituir discos de freio
+0,discos de freio desgastados,vibração ao frear com barulho,trocar discos de freio
+0,discos de freio desgastados,vibração ao frear com barulho,realizar a troca discos de freio
+0,discos de freio desgastados,vibração ao frear e vibração,substituir discos de freio
+0,discos de freio desgastados,vibração ao frear e vibração,trocar discos de freio
+0,discos de freio desgastados,vibração ao frear e vibração,realizar a troca discos de freio
+0,falta de fluido,direcao pesada,reabastecer o fluido de direcao
+0,falta de fluido,direcao pesada com barulho,reabastecer o fluido de direcao
+0,falta de fluido,direcao pesada e vibração,reabastecer o fluido de direcao
+0,filtro de ar entupido,perda de potencia,trocar o filtro de ar
+0,filtro de ar entupido,perda de potencia com barulho,trocar o filtro de ar
+0,filtro de ar entupido,perda de potencia e vibração,trocar o filtro de ar
+0,filtro de ar sujo,aumento no consumo,trocar o filtro de ar
+0,filtro de ar sujo,aumento no consumo com barulho,trocar o filtro de ar
+0,filtro de ar sujo,aumento no consumo e vibração,trocar o filtro de ar
+0,filtro de cabine sujo,ar condicionado fraco,trocar o filtro de cabine
+0,filtro de cabine sujo,ar condicionado fraco com barulho,trocar o filtro de cabine
+0,filtro de cabine sujo,ar condicionado fraco e vibração,trocar o filtro de cabine
+0,filtro de combustivel entupido,aceleracao lenta,trocar o filtro de combustivel
+0,filtro de combustivel entupido,aceleracao lenta com barulho,trocar o filtro de combustivel
+0,filtro de combustivel entupido,aceleracao lenta e vibração,trocar o filtro de combustivel
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona,substituir fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona,trocar fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona,realizar a troca fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona com barulho,substituir fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona com barulho,trocar fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona com barulho,realizar a troca fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona e vibração,substituir fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona e vibração,trocar fusível ou ventilador
+0,fusível queimado ou ventilador com problema,ventilador do radiador não funciona e vibração,realizar a troca fusível ou ventilador
+0,lmpada queimada,luz de farol baixo acesa,substituir lmpada
+0,lmpada queimada,luz de farol baixo acesa,trocar lmpada
+0,lmpada queimada,luz de farol baixo acesa,realizar a troca lmpada
+0,lmpada queimada,luz de farol baixo acesa com barulho,substituir lmpada
+0,lmpada queimada,luz de farol baixo acesa com barulho,trocar lmpada
+0,lmpada queimada,luz de farol baixo acesa com barulho,realizar a troca lmpada
+0,lmpada queimada,luz de farol baixo acesa e vibração,substituir lmpada
+0,lmpada queimada,luz de farol baixo acesa e vibração,trocar lmpada
+0,lmpada queimada,luz de farol baixo acesa e vibração,realizar a troca lmpada
+0,lmpada queimada,luz de farol alto acesa,substituir lmpada
+0,lmpada queimada,luz de farol alto acesa,trocar lmpada
+0,lmpada queimada,luz de farol alto acesa,realizar a troca lmpada
+0,lmpada queimada,luz de farol alto acesa com barulho,substituir lmpada
+0,lmpada queimada,luz de farol alto acesa com barulho,trocar lmpada
+0,lmpada queimada,luz de farol alto acesa com barulho,realizar a troca lmpada
+0,lmpada queimada,luz de farol alto acesa e vibração,substituir lmpada
+0,lmpada queimada,luz de farol alto acesa e vibração,trocar lmpada
+0,lmpada queimada,luz de farol alto acesa e vibração,realizar a troca lmpada
+0,lmpada queimada,luz de farol baixo piscando,substituir lmpada
+0,lmpada queimada,luz de farol baixo piscando,trocar lmpada
+0,lmpada queimada,luz de farol baixo piscando,realizar a troca lmpada
+0,lmpada queimada,luz de farol baixo piscando com barulho,substituir lmpada
+0,lmpada queimada,luz de farol baixo piscando com barulho,trocar lmpada
+0,lmpada queimada,luz de farol baixo piscando com barulho,realizar a troca lmpada
+0,lmpada queimada,luz de farol baixo piscando e vibração,substituir lmpada
+0,lmpada queimada,luz de farol baixo piscando e vibração,trocar lmpada
+0,lmpada queimada,luz de farol baixo piscando e vibração,realizar a troca lmpada
+0,motor de partida com problema,barulho ao girar a chave,substituir motor de partida
+0,motor de partida com problema,barulho ao girar a chave,trocar motor de partida
+0,motor de partida com problema,barulho ao girar a chave,realizar a troca motor de partida
+0,motor de partida com problema,barulho ao girar a chave com barulho,substituir motor de partida
+0,motor de partida com problema,barulho ao girar a chave com barulho,trocar motor de partida
+0,motor de partida com problema,barulho ao girar a chave com barulho,realizar a troca motor de partida
+0,motor de partida com problema,barulho ao girar a chave e vibração,substituir motor de partida
+0,motor de partida com problema,barulho ao girar a chave e vibração,trocar motor de partida
+0,motor de partida com problema,barulho ao girar a chave e vibração,realizar a troca motor de partida
+0,motor desregulado,marcha lenta irregular,verificar e ajustar motor
+0,motor desregulado,marcha lenta irregular com barulho,verificar e ajustar motor
+0,motor desregulado,marcha lenta irregular e vibração,verificar e ajustar motor
+0,oleo baixo,luz de oleo acesa,completar o oleo e checar vazamentos
+0,oleo baixo,luz de oleo acesa com barulho,completar o oleo e checar vazamentos
+0,oleo baixo,luz de oleo acesa e vibração,completar o oleo e checar vazamentos
+0,pastilhas de freio desgastadas,barulho ao frear,substituir
+0,pastilhas de freio desgastadas,barulho ao frear,trocar
+0,pastilhas de freio desgastadas,barulho ao frear,realizar a troca
+0,pastilhas de freio desgastadas,barulho ao frear com barulho,substituir
+0,pastilhas de freio desgastadas,barulho ao frear com barulho,trocar
+0,pastilhas de freio desgastadas,barulho ao frear com barulho,realizar a troca
+0,pastilhas de freio desgastadas,barulho ao frear e vibração,substituir
+0,pastilhas de freio desgastadas,barulho ao frear e vibração,trocar
+0,pastilhas de freio desgastadas,barulho ao frear e vibração,realizar a troca
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear,substituir pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear,trocar pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear,realizar a troca pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear com barulho,substituir pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear com barulho,trocar pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear com barulho,realizar a troca pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear e vibração,substituir pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear e vibração,trocar pastilhas de freio
+0,pastilhas de freio desgastadas,barulho de raspagem ao frear e vibração,realizar a troca pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear,substituir pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear,trocar pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear,realizar a troca pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear com barulho,substituir pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear com barulho,trocar pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear com barulho,realizar a troca pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear e vibração,substituir pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear e vibração,trocar pastilhas de freio
+0,pastilhas de freio desgastadas,barulho ao frear e vibração,realizar a troca pastilhas de freio
+0,pastilhas de freio gastas,luz de freio acesa,trocar pastilhas de freio
+0,pastilhas de freio gastas,luz de freio acesa com barulho,trocar pastilhas de freio
+0,pastilhas de freio gastas,luz de freio acesa e vibração,trocar pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear,substituir pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear,trocar pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear,realizar a troca pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear com barulho,substituir pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear com barulho,trocar pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear com barulho,realizar a troca pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear e vibração,substituir pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear e vibração,trocar pastilhas de freio
+0,pastilhas de freio gastas,barulho de grunhido ao frear e vibração,realizar a troca pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos,substituir as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos,trocar as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos,realizar a troca as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos com barulho,substituir as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos com barulho,trocar as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos com barulho,realizar a troca as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos e vibração,substituir as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos e vibração,trocar as pastilhas de freio
+0,pastilhas desgatadas,freio ruidosos e vibração,realizar a troca as pastilhas de freio
+0,pneus desbalanceados,vibracao ao frear,balancear e realinhar pneus
+0,pneus desbalanceados,vibracao ao frear com barulho,balancear e realinhar pneus
+0,pneus desbalanceados,vibracao ao frear e vibração,balancear e realinhar pneus
+0,problema geral no motor,luz de manutenção acesa,realizar diagnóstico geral
+0,problema geral no motor,luz de manutenção acesa com barulho,realizar diagnóstico geral
+0,problema geral no motor,luz de manutenção acesa e vibração,realizar diagnóstico geral
+0,problema na bomba de direção,luz de sistema de direção acesa,substituir bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa,trocar bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa,realizar a troca bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa com barulho,substituir bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa com barulho,trocar bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa com barulho,realizar a troca bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa e vibração,substituir bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa e vibração,trocar bomba de direção
+0,problema na bomba de direção,luz de sistema de direção acesa e vibração,realizar a troca bomba de direção
+0,problema na bomba de óleo,luz de óleo piscando,substituir bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando,trocar bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando,realizar a troca bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando com barulho,substituir bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando com barulho,trocar bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando com barulho,realizar a troca bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando e vibração,substituir bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando e vibração,trocar bomba de óleo
+0,problema na bomba de óleo,luz de óleo piscando e vibração,realizar a troca bomba de óleo
+0,problema na carga da bateria,luz de bateria intermitente,verificar e substituir bateria
+0,problema na carga da bateria,luz de bateria intermitente,verificar e trocar bateria
+0,problema na carga da bateria,luz de bateria intermitente,verificar e realizar a troca bateria
+0,problema na carga da bateria,luz de bateria intermitente com barulho,verificar e substituir bateria
+0,problema na carga da bateria,luz de bateria intermitente com barulho,verificar e trocar bateria
+0,problema na carga da bateria,luz de bateria intermitente com barulho,verificar e realizar a troca bateria
+0,problema na carga da bateria,luz de bateria intermitente e vibração,verificar e substituir bateria
+0,problema na carga da bateria,luz de bateria intermitente e vibração,verificar e trocar bateria
+0,problema na carga da bateria,luz de bateria intermitente e vibração,verificar e realizar a troca bateria
+0,problema na carga da bateria,luz de bateria piscando,verificar e substituir bateria
+0,problema na carga da bateria,luz de bateria piscando,verificar e trocar bateria
+0,problema na carga da bateria,luz de bateria piscando,verificar e realizar a troca bateria
+0,problema na carga da bateria,luz de bateria piscando com barulho,verificar e substituir bateria
+0,problema na carga da bateria,luz de bateria piscando com barulho,verificar e trocar bateria
+0,problema na carga da bateria,luz de bateria piscando com barulho,verificar e realizar a troca bateria
+0,problema na carga da bateria,luz de bateria piscando e vibração,verificar e substituir bateria
+0,problema na carga da bateria,luz de bateria piscando e vibração,verificar e trocar bateria
+0,problema na carga da bateria,luz de bateria piscando e vibração,verificar e realizar a troca bateria
+0,problema na embreagem,carro não desengata marcha,verificar e substituir embreagem
+0,problema na embreagem,carro não desengata marcha,verificar e trocar embreagem
+0,problema na embreagem,carro não desengata marcha,verificar e realizar a troca embreagem
+0,problema na embreagem,carro não desengata marcha com barulho,verificar e substituir embreagem
+0,problema na embreagem,carro não desengata marcha com barulho,verificar e trocar embreagem
+0,problema na embreagem,carro não desengata marcha com barulho,verificar e realizar a troca embreagem
+0,problema na embreagem,carro não desengata marcha e vibração,verificar e substituir embreagem
+0,problema na embreagem,carro não desengata marcha e vibração,verificar e trocar embreagem
+0,problema na embreagem,carro não desengata marcha e vibração,verificar e realizar a troca embreagem
+0,problema na transmissão,luz de cambio acesa,verificar e reparar transmissão
+0,problema na transmissão,luz de cambio acesa com barulho,verificar e reparar transmissão
+0,problema na transmissão,luz de cambio acesa e vibração,verificar e reparar transmissão
+0,problema na transmissão,luz de transmissão acesa,verificar e reparar transmissão
+0,problema na transmissão,luz de transmissão acesa com barulho,verificar e reparar transmissão
+0,problema na transmissão,luz de transmissão acesa e vibração,verificar e reparar transmissão
+0,problema na válvula de marcha lenta,marcha lenta muito alta,substituir válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta,trocar válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta,realizar a troca válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta com barulho,substituir válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta com barulho,trocar válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta com barulho,realizar a troca válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta e vibração,substituir válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta e vibração,trocar válvula
+0,problema na válvula de marcha lenta,marcha lenta muito alta e vibração,realizar a troca válvula
+0,problema no alternador,motor nao liga,reparar ou substituir o alternador
+0,problema no alternador,motor nao liga,reparar ou trocar o alternador
+0,problema no alternador,motor nao liga,reparar ou realizar a troca o alternador
+0,problema no alternador,motor nao liga com barulho,reparar ou substituir o alternador
+0,problema no alternador,motor nao liga com barulho,reparar ou trocar o alternador
+0,problema no alternador,motor nao liga com barulho,reparar ou realizar a troca o alternador
+0,problema no alternador,motor nao liga e vibração,reparar ou substituir o alternador
+0,problema no alternador,motor nao liga e vibração,reparar ou trocar o alternador
+0,problema no alternador,motor nao liga e vibração,reparar ou realizar a troca o alternador
+0,problema no escape,barulho ao acelerar,verificar e substituir peças do escape
+0,problema no escape,barulho ao acelerar,verificar e trocar peças do escape
+0,problema no escape,barulho ao acelerar,verificar e realizar a troca peças do escape
+0,problema no escape,barulho ao acelerar com barulho,verificar e substituir peças do escape
+0,problema no escape,barulho ao acelerar com barulho,verificar e trocar peças do escape
+0,problema no escape,barulho ao acelerar com barulho,verificar e realizar a troca peças do escape
+0,problema no escape,barulho ao acelerar e vibração,verificar e substituir peças do escape
+0,problema no escape,barulho ao acelerar e vibração,verificar e trocar peças do escape
+0,problema no escape,barulho ao acelerar e vibração,verificar e realizar a troca peças do escape
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro,substituir o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro,trocar o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro,realizar a troca o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro com barulho,substituir o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro com barulho,trocar o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro com barulho,realizar a troca o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro e vibração,substituir o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro e vibração,trocar o motor de arranque
+0,problema no motor de arranque,ruido de estrondo ao ligar o carro e vibração,realizar a troca o motor de arranque
+0,problema no módulo abs,luz de abs intermitente,verificar e substituir módulo abs
+0,problema no módulo abs,luz de abs intermitente,verificar e trocar módulo abs
+0,problema no módulo abs,luz de abs intermitente,verificar e realizar a troca módulo abs
+0,problema no módulo abs,luz de abs intermitente com barulho,verificar e substituir módulo abs
+0,problema no módulo abs,luz de abs intermitente com barulho,verificar e trocar módulo abs
+0,problema no módulo abs,luz de abs intermitente com barulho,verificar e realizar a troca módulo abs
+0,problema no módulo abs,luz de abs intermitente e vibração,verificar e substituir módulo abs
+0,problema no módulo abs,luz de abs intermitente e vibração,verificar e trocar módulo abs
+0,problema no módulo abs,luz de abs intermitente e vibração,verificar e realizar a troca módulo abs
+0,problema no módulo de injeção,luz de injeção eletrônica acesa,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa com barulho,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa com barulho,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa com barulho,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa e vibração,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa e vibração,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica acesa e vibração,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando com barulho,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando com barulho,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando com barulho,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando e vibração,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando e vibração,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção eletrônica piscando e vibração,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando com barulho,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando com barulho,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando com barulho,verificar e realizar a troca módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando e vibração,verificar e substituir módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando e vibração,verificar e trocar módulo de injeção
+0,problema no módulo de injeção,luz de injeção piscando e vibração,verificar e realizar a troca módulo de injeção
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa,substituir sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa,trocar sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa,realizar a troca sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa com barulho,substituir sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa com barulho,trocar sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa com barulho,realizar a troca sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa e vibração,substituir sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa e vibração,trocar sensor de temperatura
+0,problema no sensor de temperatura,luz de temperatura do óleo acesa e vibração,realizar a troca sensor de temperatura
+0,problema no sistema abs,luz de abs piscando,verificar e substituir sistema abs
+0,problema no sistema abs,luz de abs piscando,verificar e trocar sistema abs
+0,problema no sistema abs,luz de abs piscando,verificar e realizar a troca sistema abs
+0,problema no sistema abs,luz de abs piscando com barulho,verificar e substituir sistema abs
+0,problema no sistema abs,luz de abs piscando com barulho,verificar e trocar sistema abs
+0,problema no sistema abs,luz de abs piscando com barulho,verificar e realizar a troca sistema abs
+0,problema no sistema abs,luz de abs piscando e vibração,verificar e substituir sistema abs
+0,problema no sistema abs,luz de abs piscando e vibração,verificar e trocar sistema abs
+0,problema no sistema abs,luz de abs piscando e vibração,verificar e realizar a troca sistema abs
+0,problema no sistema de airbag,luz de airbag acesa,checar e reparar sistema de airbag
+0,problema no sistema de airbag,luz de airbag acesa com barulho,checar e reparar sistema de airbag
+0,problema no sistema de airbag,luz de airbag acesa e vibração,checar e reparar sistema de airbag
+0,problema no sistema de ar condicionado,luz de sistema de ar condicionado acesa,verificar e reparar sistema de ar condicionado
+0,problema no sistema de ar condicionado,luz de sistema de ar condicionado acesa com barulho,verificar e reparar sistema de ar condicionado
+0,problema no sistema de ar condicionado,luz de sistema de ar condicionado acesa e vibração,verificar e reparar sistema de ar condicionado
+0,problema no sistema de ar condicionado,luz de sistema de ar condicionado piscando,verificar e reparar sistema de ar condicionado
+0,problema no sistema de ar condicionado,luz de sistema de ar condicionado piscando com barulho,verificar e reparar sistema de ar condicionado
+0,problema no sistema de ar condicionado,luz de sistema de ar condicionado piscando e vibração,verificar e reparar sistema de ar condicionado
+0,problema no sistema de arrefecimento,luz de sistema de refrigerante acesa,verificar e reparar sistema de arrefecimento
+0,problema no sistema de arrefecimento,luz de sistema de refrigerante acesa com barulho,verificar e reparar sistema de arrefecimento
+0,problema no sistema de arrefecimento,luz de sistema de refrigerante acesa e vibração,verificar e reparar sistema de arrefecimento
+0,problema no sistema de arrefecimento,luz de sistema de refrigerante piscando,verificar e reparar sistema de arrefecimento
+0,problema no sistema de arrefecimento,luz de sistema de refrigerante piscando com barulho,verificar e reparar sistema de arrefecimento
+0,problema no sistema de arrefecimento,luz de sistema de refrigerante piscando e vibração,verificar e reparar sistema de arrefecimento
+0,problema no sistema de estabilidade,luz de controle de estabilidade acesa,verificar e reparar sistema de estabilidade
+0,problema no sistema de estabilidade,luz de controle de estabilidade acesa com barulho,verificar e reparar sistema de estabilidade
+0,problema no sistema de estabilidade,luz de controle de estabilidade acesa e vibração,verificar e reparar sistema de estabilidade
+0,problema no sistema de estabilidade,luz de estabilidade acesa,verificar e reparar sistema de estabilidade
+0,problema no sistema de estabilidade,luz de estabilidade acesa com barulho,verificar e reparar sistema de estabilidade
+0,problema no sistema de estabilidade,luz de estabilidade acesa e vibração,verificar e reparar sistema de estabilidade
+0,problema no sistema de freio,luz de freio de estacionamento acesa,verificar e reparar sistema de freio
+0,problema no sistema de freio,luz de freio de estacionamento acesa com barulho,verificar e reparar sistema de freio
+0,problema no sistema de freio,luz de freio de estacionamento acesa e vibração,verificar e reparar sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio,revisar e substituir sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio,revisar e trocar sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio,revisar e realizar a troca sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio com barulho,revisar e substituir sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio com barulho,revisar e trocar sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio com barulho,revisar e realizar a troca sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio e vibração,revisar e substituir sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio e vibração,revisar e trocar sistema de freio
+0,problema no sistema de freio,carro puxa ao soltar o freio e vibração,revisar e realizar a troca sistema de freio
+0,problema no sistema de ignicao,luz de check engine acesa,verificar e reparar sistema de ignicao
+0,problema no sistema de ignicao,luz de check engine acesa com barulho,verificar e reparar sistema de ignicao
+0,problema no sistema de ignicao,luz de check engine acesa e vibração,verificar e reparar sistema de ignicao
+0,problema no sistema de injeção,dificuldade para acelerar,verificar e ajustar sistema de injeção
+0,problema no sistema de injeção,dificuldade para acelerar com barulho,verificar e ajustar sistema de injeção
+0,problema no sistema de injeção,dificuldade para acelerar e vibração,verificar e ajustar sistema de injeção
+0,problema no sistema de tração,luz de controle de tração acesa,verificar e reparar sistema de tração
+0,problema no sistema de tração,luz de controle de tração acesa com barulho,verificar e reparar sistema de tração
+0,problema no sistema de tração,luz de controle de tração acesa e vibração,verificar e reparar sistema de tração
+0,problema no termostato,luz de temperatura acesa,substituir termostato
+0,problema no termostato,luz de temperatura acesa,trocar termostato
+0,problema no termostato,luz de temperatura acesa,realizar a troca termostato
+0,problema no termostato,luz de temperatura acesa com barulho,substituir termostato
+0,problema no termostato,luz de temperatura acesa com barulho,trocar termostato
+0,problema no termostato,luz de temperatura acesa com barulho,realizar a troca termostato
+0,problema no termostato,luz de temperatura acesa e vibração,substituir termostato
+0,problema no termostato,luz de temperatura acesa e vibração,trocar termostato
+0,problema no termostato,luz de temperatura acesa e vibração,realizar a troca termostato
+0,problema nos freios,cheiro de queimado,substituir pastilhas ou discos
+0,problema nos freios,cheiro de queimado,trocar pastilhas ou discos
+0,problema nos freios,cheiro de queimado,realizar a troca pastilhas ou discos
+0,problema nos freios,cheiro de queimado com barulho,substituir pastilhas ou discos
+0,problema nos freios,cheiro de queimado com barulho,trocar pastilhas ou discos
+0,problema nos freios,cheiro de queimado com barulho,realizar a troca pastilhas ou discos
+0,problema nos freios,cheiro de queimado e vibração,substituir pastilhas ou discos
+0,problema nos freios,cheiro de queimado e vibração,trocar pastilhas ou discos
+0,problema nos freios,cheiro de queimado e vibração,realizar a troca pastilhas ou discos
+0,problemas com o sistema de transmissão,cheiro de queimado ao acelerar,revisar e reparar sistema de transmissão
+0,problemas com o sistema de transmissão,cheiro de queimado ao acelerar com barulho,revisar e reparar sistema de transmissão
+0,problemas com o sistema de transmissão,cheiro de queimado ao acelerar e vibração,revisar e reparar sistema de transmissão
+0,problemas gerais no motor,luz de manutenção do motor acesa,realizar diagnóstico completo
+0,problemas gerais no motor,luz de manutenção do motor acesa com barulho,realizar diagnóstico completo
+0,problemas gerais no motor,luz de manutenção do motor acesa e vibração,realizar diagnóstico completo
+0,problemas gerais no motor,luz de manutenção de motor piscando,realizar diagnóstico geral
+0,problemas gerais no motor,luz de manutenção de motor piscando com barulho,realizar diagnóstico geral
+0,problemas gerais no motor,luz de manutenção de motor piscando e vibração,realizar diagnóstico geral
+0,problemas na bomba de combustível,carro não acelera,substituir bomba de combustível
+0,problemas na bomba de combustível,carro não acelera,trocar bomba de combustível
+0,problemas na bomba de combustível,carro não acelera,realizar a troca bomba de combustível
+0,problemas na bomba de combustível,carro não acelera com barulho,substituir bomba de combustível
+0,problemas na bomba de combustível,carro não acelera com barulho,trocar bomba de combustível
+0,problemas na bomba de combustível,carro não acelera com barulho,realizar a troca bomba de combustível
+0,problemas na bomba de combustível,carro não acelera e vibração,substituir bomba de combustível
+0,problemas na bomba de combustível,carro não acelera e vibração,trocar bomba de combustível
+0,problemas na bomba de combustível,carro não acelera e vibração,realizar a troca bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro,verificar e substituir bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro,verificar e trocar bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro,verificar e realizar a troca bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro com barulho,verificar e substituir bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro com barulho,verificar e trocar bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro com barulho,verificar e realizar a troca bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro e vibração,verificar e substituir bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro e vibração,verificar e trocar bomba de combustível
+0,problemas na bomba de combustível,dificuldade para iniciar o carro e vibração,verificar e realizar a troca bomba de combustível
+0,problemas na caixa de direção,barulho de batida ao dirigir,verificar e substituir caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir,verificar e trocar caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir,verificar e realizar a troca caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir com barulho,verificar e substituir caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir com barulho,verificar e trocar caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir com barulho,verificar e realizar a troca caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir e vibração,verificar e substituir caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir e vibração,verificar e trocar caixa de direção
+0,problemas na caixa de direção,barulho de batida ao dirigir e vibração,verificar e realizar a troca caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante,substituir caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante,trocar caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante,realizar a troca caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante com barulho,substituir caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante com barulho,trocar caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante com barulho,realizar a troca caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante e vibração,substituir caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante e vibração,trocar caixa de direção
+0,problemas na caixa de direção,barulho ao girar o volante e vibração,realizar a troca caixa de direção
+0,problemas na correia de transmissão,motor estala ao ligar,substituir correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar,trocar correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar,realizar a troca correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar com barulho,substituir correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar com barulho,trocar correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar com barulho,realizar a troca correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar e vibração,substituir correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar e vibração,trocar correia de transmissão
+0,problemas na correia de transmissão,motor estala ao ligar e vibração,realizar a troca correia de transmissão
+0,problemas na correia dentada,barulho de estalo ao acelerar,substituir correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar,trocar correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar,realizar a troca correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar com barulho,substituir correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar com barulho,trocar correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar com barulho,realizar a troca correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar e vibração,substituir correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar e vibração,trocar correia dentada
+0,problemas na correia dentada,barulho de estalo ao acelerar e vibração,realizar a troca correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar,substituir correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar,trocar correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar,realizar a troca correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar com barulho,substituir correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar com barulho,trocar correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar com barulho,realizar a troca correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar e vibração,substituir correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar e vibração,trocar correia dentada
+0,problemas na correia dentada,barulho de raspagem ao acelerar e vibração,realizar a troca correia dentada
+0,problemas na correia dentada,barulho ao acelerar,substituir correia dentada
+0,problemas na correia dentada,barulho ao acelerar,trocar correia dentada
+0,problemas na correia dentada,barulho ao acelerar,realizar a troca correia dentada
+0,problemas na correia dentada,barulho ao acelerar com barulho,substituir correia dentada
+0,problemas na correia dentada,barulho ao acelerar com barulho,trocar correia dentada
+0,problemas na correia dentada,barulho ao acelerar com barulho,realizar a troca correia dentada
+0,problemas na correia dentada,barulho ao acelerar e vibração,substituir correia dentada
+0,problemas na correia dentada,barulho ao acelerar e vibração,trocar correia dentada
+0,problemas na correia dentada,barulho ao acelerar e vibração,realizar a troca correia dentada
+0,problemas na embreagem,dificuldade para engatar marcha,substituir embreagem
+0,problemas na embreagem,dificuldade para engatar marcha,trocar embreagem
+0,problemas na embreagem,dificuldade para engatar marcha,realizar a troca embreagem
+0,problemas na embreagem,dificuldade para engatar marcha com barulho,substituir embreagem
+0,problemas na embreagem,dificuldade para engatar marcha com barulho,trocar embreagem
+0,problemas na embreagem,dificuldade para engatar marcha com barulho,realizar a troca embreagem
+0,problemas na embreagem,dificuldade para engatar marcha e vibração,substituir embreagem
+0,problemas na embreagem,dificuldade para engatar marcha e vibração,trocar embreagem
+0,problemas na embreagem,dificuldade para engatar marcha e vibração,realizar a troca embreagem
+0,problemas na embreagem,dificuldade para trocar marchas,verificar e substituir embreagem
+0,problemas na embreagem,dificuldade para trocar marchas,verificar e trocar embreagem
+0,problemas na embreagem,dificuldade para trocar marchas,verificar e realizar a troca embreagem
+0,problemas na embreagem,dificuldade para trocar marchas com barulho,verificar e substituir embreagem
+0,problemas na embreagem,dificuldade para trocar marchas com barulho,verificar e trocar embreagem
+0,problemas na embreagem,dificuldade para trocar marchas com barulho,verificar e realizar a troca embreagem
+0,problemas na embreagem,dificuldade para trocar marchas e vibração,verificar e substituir embreagem
+0,problemas na embreagem,dificuldade para trocar marchas e vibração,verificar e trocar embreagem
+0,problemas na embreagem,dificuldade para trocar marchas e vibração,verificar e realizar a troca embreagem
+0,problemas na embreagem,carro não desengata marcha,substituir embreagem
+0,problemas na embreagem,carro não desengata marcha,trocar embreagem
+0,problemas na embreagem,carro não desengata marcha,realizar a troca embreagem
+0,problemas na embreagem,carro não desengata marcha com barulho,substituir embreagem
+0,problemas na embreagem,carro não desengata marcha com barulho,trocar embreagem
+0,problemas na embreagem,carro não desengata marcha com barulho,realizar a troca embreagem
+0,problemas na embreagem,carro não desengata marcha e vibração,substituir embreagem
+0,problemas na embreagem,carro não desengata marcha e vibração,trocar embreagem
+0,problemas na embreagem,carro não desengata marcha e vibração,realizar a troca embreagem
+0,problemas na mistura de arcombustível,motor falha em marcha lenta,ajustar mistura de arcombustível
+0,problemas na mistura de arcombustível,motor falha em marcha lenta com barulho,ajustar mistura de arcombustível
+0,problemas na mistura de arcombustível,motor falha em marcha lenta e vibração,ajustar mistura de arcombustível
+0,problemas na mistura de arcombustível,carro engasga ao acelerar,ajustar mistura de arcombustível
+0,problemas na mistura de arcombustível,carro engasga ao acelerar com barulho,ajustar mistura de arcombustível
+0,problemas na mistura de arcombustível,carro engasga ao acelerar e vibração,ajustar mistura de arcombustível
+0,problemas na suspensão,carro sacolejando,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro sacolejando,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro sacolejando,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro sacolejando com barulho,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro sacolejando com barulho,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro sacolejando com barulho,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro sacolejando e vibração,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro sacolejando e vibração,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro sacolejando e vibração,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar com barulho,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar com barulho,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar com barulho,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar e vibração,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar e vibração,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro vibra ao desacelerar e vibração,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir com barulho,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir com barulho,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir com barulho,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir e vibração,revisar e substituir peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir e vibração,revisar e trocar peças da suspensão
+0,problemas na suspensão,carro faz barulho ao dirigir e vibração,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,barulho ao dirigir,revisar e substituir peças da suspensão
+0,problemas na suspensão,barulho ao dirigir,revisar e trocar peças da suspensão
+0,problemas na suspensão,barulho ao dirigir,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,barulho ao dirigir com barulho,revisar e substituir peças da suspensão
+0,problemas na suspensão,barulho ao dirigir com barulho,revisar e trocar peças da suspensão
+0,problemas na suspensão,barulho ao dirigir com barulho,revisar e realizar a troca peças da suspensão
+0,problemas na suspensão,barulho ao dirigir e vibração,revisar e substituir peças da suspensão
+0,problemas na suspensão,barulho ao dirigir e vibração,revisar e trocar peças da suspensão
+0,problemas na suspensão,barulho ao dirigir e vibração,revisar e realizar a troca peças da suspensão
+0,problemas na transmissão,carro não mantém a velocidade,verificar e reparar transmissão
+0,problemas na transmissão,carro não mantém a velocidade com barulho,verificar e reparar transmissão
+0,problemas na transmissão,carro não mantém a velocidade e vibração,verificar e reparar transmissão
+0,problemas no sistema de freios,carro não freia bem,revisar e substituir sistema de freios
+0,problemas no sistema de freios,carro não freia bem,revisar e trocar sistema de freios
+0,problemas no sistema de freios,carro não freia bem,revisar e realizar a troca sistema de freios
+0,problemas no sistema de freios,carro não freia bem com barulho,revisar e substituir sistema de freios
+0,problemas no sistema de freios,carro não freia bem com barulho,revisar e trocar sistema de freios
+0,problemas no sistema de freios,carro não freia bem com barulho,revisar e realizar a troca sistema de freios
+0,problemas no sistema de freios,carro não freia bem e vibração,revisar e substituir sistema de freios
+0,problemas no sistema de freios,carro não freia bem e vibração,revisar e trocar sistema de freios
+0,problemas no sistema de freios,carro não freia bem e vibração,revisar e realizar a troca sistema de freios
+0,problemas no sistema de ignição,luz de motor piscando,verificar e reparar sistema de ignição
+0,problemas no sistema de ignição,luz de motor piscando com barulho,verificar e reparar sistema de ignição
+0,problemas no sistema de ignição,luz de motor piscando e vibração,verificar e reparar sistema de ignição
+0,problemas no sistema de suspensão,barulho de raspagem ao andar,verificar e reparar suspensão
+0,problemas no sistema de suspensão,barulho de raspagem ao andar com barulho,verificar e reparar suspensão
+0,problemas no sistema de suspensão,barulho de raspagem ao andar e vibração,verificar e reparar suspensão
+0,radiador com vazamento,carro sobreaquecendo,reparar ou trocar o radiador
+0,radiador com vazamento,carro sobreaquecendo com barulho,reparar ou trocar o radiador
+0,radiador com vazamento,carro sobreaquecendo e vibração,reparar ou trocar o radiador
+0,rolamentos de roda danificados,barulho de chiado ao girar,substituir rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar,trocar rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar,realizar a troca rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar com barulho,substituir rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar com barulho,trocar rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar com barulho,realizar a troca rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar e vibração,substituir rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar e vibração,trocar rolamentos de roda
+0,rolamentos de roda danificados,barulho de chiado ao girar e vibração,realizar a troca rolamentos de roda
+0,rolamentos de rodas desgastados,barulho de grilo ao andar,substituir rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar,trocar rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar,realizar a troca rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar com barulho,substituir rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar com barulho,trocar rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar com barulho,realizar a troca rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar e vibração,substituir rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar e vibração,trocar rolamentos
+0,rolamentos de rodas desgastados,barulho de grilo ao andar e vibração,realizar a troca rolamentos
+0,sensor de abs danificado,luz de abs acesa,substituir o sensor de abs
+0,sensor de abs danificado,luz de abs acesa,trocar o sensor de abs
+0,sensor de abs danificado,luz de abs acesa,realizar a troca o sensor de abs
+0,sensor de abs danificado,luz de abs acesa com barulho,substituir o sensor de abs
+0,sensor de abs danificado,luz de abs acesa com barulho,trocar o sensor de abs
+0,sensor de abs danificado,luz de abs acesa com barulho,realizar a troca o sensor de abs
+0,sensor de abs danificado,luz de abs acesa e vibração,substituir o sensor de abs
+0,sensor de abs danificado,luz de abs acesa e vibração,trocar o sensor de abs
+0,sensor de abs danificado,luz de abs acesa e vibração,realizar a troca o sensor de abs
+0,sensor de oxigenio ruim,luz de motor acesa,trocar o sensor de oxigenio
+0,sensor de oxigenio ruim,luz de motor acesa com barulho,trocar o sensor de oxigenio
+0,sensor de oxigenio ruim,luz de motor acesa e vibração,trocar o sensor de oxigenio
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa,substituir sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa,trocar sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa,realizar a troca sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa com barulho,substituir sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa com barulho,trocar sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa com barulho,realizar a troca sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa e vibração,substituir sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa e vibração,trocar sensor de pressão de óleo
+0,sensor de pressão de óleo danificado,luz de sensor de óleo acesa e vibração,realizar a troca sensor de pressão de óleo
+0,sistema de ignição com problema,motor não pega na partida,verificar e reparar sistema de ignição
+0,sistema de ignição com problema,motor não pega na partida com barulho,verificar e reparar sistema de ignição
+0,sistema de ignição com problema,motor não pega na partida e vibração,verificar e reparar sistema de ignição
+0,suportes do motor danificados,carro vibra ao acelerar,substituir suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar,trocar suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar,realizar a troca suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar com barulho,substituir suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar com barulho,trocar suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar com barulho,realizar a troca suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar e vibração,substituir suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar e vibração,trocar suportes do motor
+0,suportes do motor danificados,carro vibra ao acelerar e vibração,realizar a troca suportes do motor
+0,suspensão danificada,direcao desalinhada,alinhar a suspensão
+0,suspensão danificada,direcao desalinhada com barulho,alinhar a suspensão
+0,suspensão danificada,direcao desalinhada e vibração,alinhar a suspensão
+0,termostato com defeito,luz de alta temperatura acesa,substituir o termostato
+0,termostato com defeito,luz de alta temperatura acesa,trocar o termostato
+0,termostato com defeito,luz de alta temperatura acesa,realizar a troca o termostato
+0,termostato com defeito,luz de alta temperatura acesa com barulho,substituir o termostato
+0,termostato com defeito,luz de alta temperatura acesa com barulho,trocar o termostato
+0,termostato com defeito,luz de alta temperatura acesa com barulho,realizar a troca o termostato
+0,termostato com defeito,luz de alta temperatura acesa e vibração,substituir o termostato
+0,termostato com defeito,luz de alta temperatura acesa e vibração,trocar o termostato
+0,termostato com defeito,luz de alta temperatura acesa e vibração,realizar a troca o termostato
+0,termostato com defeito,ar quente não sai,substituir termostato
+0,termostato com defeito,ar quente não sai,trocar termostato
+0,termostato com defeito,ar quente não sai,realizar a troca termostato
+0,termostato com defeito,ar quente não sai com barulho,substituir termostato
+0,termostato com defeito,ar quente não sai com barulho,trocar termostato
+0,termostato com defeito,ar quente não sai com barulho,realizar a troca termostato
+0,termostato com defeito,ar quente não sai e vibração,substituir termostato
+0,termostato com defeito,ar quente não sai e vibração,trocar termostato
+0,termostato com defeito,ar quente não sai e vibração,realizar a troca termostato
+0,transmissão com problema,barulho de estalo ao acelerar,verificar e reparar transmissão
+0,transmissão com problema,barulho de estalo ao acelerar com barulho,verificar e reparar transmissão
+0,transmissão com problema,barulho de estalo ao acelerar e vibração,verificar e reparar transmissão
+0,vazamento no sistema de combustivel,cheiro de gasolina,reparar vazamento
+0,vazamento no sistema de combustivel,cheiro de gasolina com barulho,reparar vazamento
+0,vazamento no sistema de combustivel,cheiro de gasolina e vibração,reparar vazamento
+0,vazamento no sistema de combustível,cheiro de combustível forte,reparar vazamento
+0,vazamento no sistema de combustível,cheiro de combustível forte com barulho,reparar vazamento
+0,vazamento no sistema de combustível,cheiro de combustível forte e vibração,reparar vazamento
+0,vazamento no sistema de refrigerante,luz de sistema de arrefecimento acesa,reparar vazamento
+0,vazamento no sistema de refrigerante,luz de sistema de arrefecimento acesa com barulho,reparar vazamento
+0,vazamento no sistema de refrigerante,luz de sistema de arrefecimento acesa e vibração,reparar vazamento
+0,vedacao do motor com vazamento,carro perdendo óleo,substituir vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo,trocar vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo,realizar a troca vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo com barulho,substituir vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo com barulho,trocar vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo com barulho,realizar a troca vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo e vibração,substituir vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo e vibração,trocar vedacoes
+0,vedacao do motor com vazamento,carro perdendo óleo e vibração,realizar a troca vedacoes
+0,velas de ignicao gastas,motor engasgando,trocar as velas de ignicao
+0,velas de ignicao gastas,motor engasgando com barulho,trocar as velas de ignicao
+0,velas de ignicao gastas,motor engasgando e vibração,trocar as velas de ignicao
+0,válvula de controle de marcha lenta,motor falhando em alta rotação,verificar e substituir válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação,verificar e trocar válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação,verificar e realizar a troca válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação com barulho,verificar e substituir válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação com barulho,verificar e trocar válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação com barulho,verificar e realizar a troca válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação e vibração,verificar e substituir válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação e vibração,verificar e trocar válvula
+0,válvula de controle de marcha lenta,motor falhando em alta rotação e vibração,verificar e realizar a troca válvula

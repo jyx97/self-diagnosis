@@ -1,0 +1,160 @@
+sintoma,possivel_problema,solucao
+motor nao liga,problema no alternador ,reparar ou substituir o alternador
+ruido ao ligar,bateria descarregada,recarregar ou substituir a bateria
+luzes fracas,alternador defeituoso,substituir ou reparar o alternador
+freio ruidosos,pastilhas desgatadas,substituir as pastilhas de freio
+desgaste irregular,disco de freio empenado,substituir ou retificar os discos
+barulho ao frear,pastilhas de freio desgastadas,substituir
+o carro nao liga,bateria descarregada,trocar ou recarregar a bateria
+barulho ao acelerar,problema no escape,verificar e substituir peças do escape
+direcao pesada,falta de fluido,reabastecer o fluido de direcao
+luz de oleo acesa,oleo baixo,completar o oleo e checar vazamentos
+cheiro de queimado,problema nos freios,substituir pastilhas ou discos
+vibracao ao frear,pneus desbalanceados,balancear e realinhar pneus
+luz de motor acesa,sensor de oxigenio ruim,trocar o sensor de oxigenio
+aumento no consumo,filtro de ar sujo,trocar o filtro de ar
+luz de bateria acesa,alternador defeituoso,substituir o alternador
+motor engasgando,velas de ignicao gastas,trocar as velas de ignicao
+ar condicionado fraco,filtro de cabine sujo,trocar o filtro de cabine
+carro sobreaquecendo,radiador com vazamento,reparar ou trocar o radiador
+ruído no motor,correia dentada desgastada,substituir a correia dentada
+luz de abs acesa,sensor de abs danificado,substituir o sensor de abs
+marcha lenta irregular,bomba de combustivel com problema,verificar e substituir a bomba
+cheiro de gasolina,vazamento no sistema de combustivel,reparar vazamento
+luz de freio acesa,pastilhas de freio gastas,trocar pastilhas de freio
+perda de potencia,filtro de ar entupido,trocar o filtro de ar
+barulho na suspensao,amortecedores danificados,substituir os amortecedores
+direcao desalinhada,suspensão danificada,alinhar a suspensão
+luz de airbag acesa,problema no sistema de airbag,checar e reparar sistema de airbag
+carro puxando para um lado,alinhamento da direção,realizar alinhamento da direção
+ruido de estrondo ao ligar o carro,problema no motor de arranque,substituir o motor de arranque
+aceleracao lenta,filtro de combustivel entupido,trocar o filtro de combustivel
+luz de alta temperatura acesa,termostato com defeito,substituir o termostato
+vibraçao no volante,balanceamento de rodas,balancear as rodas
+cheiro de borracha queimada,correia de transmisao desgastada,substituir a correia de transmisao
+luz de check engine acesa,problema no sistema de ignicao,verificar e reparar sistema de ignicao
+falha ao ligar,chave de ignicao com problema,substituir a chave de ignicao
+luz de injeção acesa,bico injetor sujo ou danificado,limpar ou substituir bico injetor
+carro perdendo óleo,vedacao do motor com vazamento,substituir vedacoes
+ventilador do radiador não funciona,fusível queimado ou ventilador com problema,substituir fusível ou ventilador
+marcha lenta irregular,motor desregulado,verificar e ajustar motor
+cheiro de queimado ao frear,disco de freio danificado,substituir discos de freio
+luz de pressão de óleo acesa,bomba de óleo com defeito,substituir a bomba de óleo
+luz de controle de tração acesa,problema no sistema de tração,verificar e reparar sistema de tração
+direcao com folga,caixa de direção com problema,substituir a caixa de direção
+barulho de grilo ao andar,rolamentos de rodas desgastados,substituir rolamentos
+luz de cambio acesa,problema na transmissão,verificar e reparar transmissão
+carro vibra ao acelerar,suportes do motor danificados,substituir suportes do motor
+barulho de batida ao dirigir,problemas na caixa de direção,verificar e substituir caixa de direção
+luz de manutenção acesa,problema geral no motor,realizar diagnóstico geral
+dificuldade para engatar marcha,problemas na embreagem,substituir embreagem
+motor falhando em alta rotação,válvula de controle de marcha lenta,verificar e substituir válvula
+luz de sistema de exaustão acesa,catalisador danificado,substituir o catalisador
+carro sacolejando,problemas na suspensão,revisar e substituir peças da suspensão
+ar quente não sai,termostato com defeito,substituir termostato
+barulho de estalo ao acelerar,transmissão com problema,verificar e reparar transmissão
+luz de farol baixo acesa,lâmpada queimada,substituir lâmpada
+motor não pega na partida,sistema de ignição com problema,verificar e reparar sistema de ignição
+marcha lenta muito alta,problema na válvula de marcha lenta,substituir válvula
+barulho ao girar a chave,motor de partida com problema,substituir motor de partida
+luz de temperatura acesa,problema no termostato,substituir termostato
+vibração ao frear,discos de freio desgastados,substituir discos de freio
+luz de freio de estacionamento acesa,problema no sistema de freio,verificar e reparar sistema de freio
+carro não desengata marcha,problema na embreagem,verificar e substituir embreagem
+luz de injeção eletrônica acesa,problema no módulo de injeção,verificar e substituir módulo de injeção
+barulho de raspagem ao andar,problemas no sistema de suspensão,verificar e reparar suspensão
+luz de pressão de combustível acesa,bomba de combustível com problema,substituir bomba de combustível
+dificuldade para acelerar,problema no sistema de injeção,verificar e ajustar sistema de injeção
+luz de sensor de óleo acesa,sensor de pressão de óleo danificado,substituir sensor de pressão de óleo
+barulho de grunhido ao frear,pastilhas de freio gastas,substituir pastilhas de freio
+luz de sistema de refrigerante acesa,problema no sistema de arrefecimento,verificar e reparar sistema de arrefecimento
+cheiro de combustível forte,vazamento no sistema de combustível,reparar vazamento
+luz de controle de estabilidade acesa,problema no sistema de estabilidade,verificar e reparar sistema de estabilidade
+carro puxa para um lado,alinhamento de rodas,realizar alinhamento de rodas
+luz de bateria intermitente,problema na carga da bateria,verificar e substituir bateria
+motor falha em marcha lenta,problemas na mistura de ar-combustível,ajustar mistura de ar-combustível
+barulho de chiado ao girar,rolamentos de roda danificados,substituir rolamentos de roda
+luz de abs intermitente,problema no módulo abs,verificar e substituir módulo abs
+cheiro de queimado ao acelerar,problemas com o sistema de transmissão,revisar e reparar sistema de transmissão
+luz de temperatura do óleo acesa,problema no sensor de temperatura,substituir sensor de temperatura
+carro não acelera,problemas na bomba de combustível,substituir bomba de combustível
+barulho de estalo ao acelerar,problemas na correia dentada,substituir correia dentada
+luz de sistema de direção acesa,problema na bomba de direção,substituir bomba de direção
+carro puxa ao soltar o freio,problema no sistema de freio,revisar e substituir sistema de freio
+luz de transmissão acesa,problema na transmissão,verificar e reparar transmissão
+luz de manutenção do motor acesa,problemas gerais no motor,realizar diagnóstico completo
+dificuldade para trocar marchas,problemas na embreagem,verificar e substituir embreagem
+motor estala ao ligar,problemas na correia de transmissão,substituir correia de transmissão
+luz de injeção eletrônica piscando,problema no módulo de injeção,verificar e substituir módulo de injeção
+barulho ao girar o volante,problemas na caixa de direção,substituir caixa de direção
+luz de sistema de escape acesa,catalisador com defeito,substituir catalisador
+dificuldade para iniciar o carro,problemas na bomba de combustível,verificar e substituir bomba de combustível
+luz de pressão de óleo piscando,bomba de óleo com defeito,substituir bomba de óleo
+carro vibra ao desacelerar,problemas na suspensão,revisar e substituir peças da suspensão
+luz de farol alto acesa,lâmpada queimada,substituir lâmpada
+barulho de raspagem ao frear,pastilhas de freio desgastadas,substituir pastilhas de freio
+luz de sistema de arrefecimento acesa,vazamento no sistema de refrigerante,reparar vazamento
+luz de estabilidade acesa,problema no sistema de estabilidade,verificar e reparar sistema de estabilidade
+dificuldade para engatar marcha,problemas na embreagem,substituir embreagem
+luz de pressão de combustível piscando,bomba de combustível com problema,substituir bomba de combustível
+carro faz barulho ao dirigir,problemas na suspensão,revisar e substituir peças da suspensão
+luz de motor piscando,problemas no sistema de ignição,verificar e reparar sistema de ignição
+luz de manutenção de motor piscando,problemas gerais no motor,realizar diagnóstico geral
+carro não mantém a velocidade,problemas na transmissão,verificar e reparar transmissão
+luz de sistema de ar condicionado acesa,problema no sistema de ar condicionado,verificar e reparar sistema de ar condicionado
+carro engasga ao acelerar,problemas na mistura de ar-combustível,ajustar mistura de ar-combustível
+luz de bateria piscando,problema na carga da bateria,verificar e substituir bateria
+barulho de raspagem ao acelerar,problemas na correia dentada,substituir correia dentada
+luz de sistema de refrigerante piscando,problema no sistema de arrefecimento,verificar e reparar sistema de arrefecimento
+dificuldade para iniciar o carro,problemas na bomba de combustível,verificar e substituir bomba de combustível
+barulho ao dirigir,problemas na suspensão,revisar e substituir peças da suspensão
+luz de óleo piscando,problema na bomba de óleo,substituir bomba de óleo
+carro não freia bem,problemas no sistema de freios,revisar e substituir sistema de freios
+luz de motor piscando,problemas no sistema de ignição,verificar e reparar sistema de ignição
+luz de pressão de óleo piscando,bomba de óleo com defeito,substituir bomba de óleo
+barulho ao girar o volante,problemas na caixa de direção,substituir caixa de direção
+luz de farol baixo piscando,lâmpada queimada,substituir lâmpada
+carro não desengata marcha,problemas na embreagem,substituir embreagem
+luz de injeção piscando,problema no módulo de injeção,verificar e substituir módulo de injeção
+barulho ao frear,pastilhas de freio desgastadas,substituir pastilhas de freio
+luz de sistema de ar condicionado piscando,problema no sistema de ar condicionado,verificar e reparar sistema de ar condicionado
+carro não acelera,problemas na bomba de combustível,substituir bomba de combustível
+luz de manutenção de motor piscando,problemas gerais no motor,realizar diagnóstico geral
+barulho ao acelerar,problemas na correia dentada,substituir correia dentada
+luz de pressão de combustível piscando,bomba de combustível com problema,substituir bomba de combustível
+luz de abs piscando,problema no sistema abs,verificar e substituir sistema abs
+carro faz barulho ao dirigir,problemas na suspensão,revisar e substituir peças da suspensão
+luz de motor piscando,problemas no sistema de ignição,verificar e reparar sistema de ignição
+carro engasga ao acelerar,problemas na mistura de ar-combustível,ajustar mistura de ar-combustível
+luz de sistema de ar condicionado piscando,problema no sistema de ar condicionado,verificar e reparar sistema de ar condicionado
+dificuldade para iniciar o carro,problemas na bomba de combustível,verificar e substituir bomba de combustível
+barulho ao frear,pastilhas de freio desgastadas,substituir pastilhas de freio
+luz de óleo piscando,problema na bomba de óleo,substituir bomba de óleo
+carro não freia bem,problemas no sistema de freios,revisar e substituir sistema de freios
+luz de motor piscando,problemas no sistema de ignição,verificar e reparar sistema de ignição
+luz de pressão de óleo piscando,bomba de óleo com defeito,substituir bomba de óleo
+barulho ao girar o volante,problemas na caixa de direção,substituir caixa de direção
+luz de farol baixo piscando,lâmpada queimada,substituir lâmpada
+carro não desengata marcha,problemas na embreagem,substituir embreagem
+luz de injeção piscando,problema no módulo de injeção,verificar e substituir módulo de injeção
+barulho ao frear,pastilhas de freio desgastadas,substituir pastilhas de freio
+luz de sistema de ar condicionado piscando,problema no sistema de ar condicionado,verificar e reparar sistema de ar condicionado
+carro não acelera,problemas na bomba de combustível,substituir bomba de combustível
+luz de manutenção de motor piscando,problemas gerais no motor,realizar diagnóstico geral
+barulho ao acelerar,problemas na correia dentada,substituir correia dentada
+luz de pressão de combustível piscando,bomba de combustível com problema,substituir bomba de combustível
+luz de abs piscando,problema no sistema abs,verificar e substituir sistema abs
+carro faz barulho ao dirigir,problemas na suspensão,revisar e substituir peças da suspensão
+luz de motor piscando,problemas no sistema de ignição,verificar e reparar sistema de ignição
+carro engasga ao acelerar,problemas na mistura de ar-combustível,ajustar mistura de ar-combustível
+luz de sistema de ar condicionado piscando,problema no sistema de ar condicionado,verificar e reparar sistema de ar condicionado
+dificuldade para iniciar o carro,problemas na bomba de combustível,verificar e substituir bomba de combustível
+barulho ao frear,pastilhas de freio desgastadas,substituir pastilhas de freio
+luz de óleo piscando,problema na bomba de óleo,substituir bomba de óleo
+carro não freia bem,problemas no sistema de freios,revisar e substituir sistema de freios
+luz de motor piscando,problemas no sistema de ignição,verificar e reparar sistema de ignição
+luz de pressão de óleo piscando,bomba de óleo com defeito,substituir bomba de óleo
+barulho ao girar o volante,problemas na caixa de direção,substituir caixa de direção
+luz de farol baixo piscando,lâmpada queimada,substituir lâmpada
+carro não desengata marcha,problemas na embreagem,substituir embreagem
+luz de injeção piscando,problema no módulo de injeção,verificar e substituir módulo de injeção
